@@ -10,8 +10,8 @@ Check out the official [nnUNet installation instructions](https://github.com/MIC
 
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/MIC-DKFZ/skeleton-recall.git
-cd skeleton-recall
+git clone https://github.com/xiongjiula/BT-Net.git
+cd BT-Net
 pip install -e .
 ```
 
